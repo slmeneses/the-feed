@@ -138,6 +138,13 @@ html {
 
 }
 
+.bubble{
+    position: absolute;
+    top: 640px;
+    left: 45px;
+
+}
+
 
 .marquee{
     position: absolute;
